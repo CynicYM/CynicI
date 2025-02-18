@@ -1,0 +1,5 @@
+namelist = ["Bataa", "Bold", "Suren", "Bolor"]
+
+def getName(Code):
+    return namelist[Code]
+    
